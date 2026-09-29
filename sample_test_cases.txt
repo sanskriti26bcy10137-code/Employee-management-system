@@ -1,0 +1,31 @@
+SAMPLE TEST CASES
+
+1. Select Employee Records -> Show employees.
+   Expected: Rahul, Priya and Aman are displayed.
+
+2. Add employee:
+   ID: 104
+   Name: Neha
+   Age: 22
+   Department: IT
+   Expected: Employee added.
+
+3. Add employee with ID 101.
+   Expected: Program says the ID already exists.
+
+4. Set salary of employee 104 to 42000.
+   Expected: Salary is saved.
+
+5. Record attendance for employee 104:
+   Working days: 25
+   Present days: 23
+   Expected: Attendance = 92%.
+
+6. Enter present days as 30 and working days as 25.
+   Expected: Entry is rejected.
+
+7. Search employee 102.
+   Expected: Priya's details are shown.
+
+8. Delete employee 104.
+   Expected: Employee is deleted.
